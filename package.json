@@ -9,6 +9,7 @@
     "url": "git+https://github.com/mybigday/react-native-media-meta.git"
   },
   "keywords": ["react", "native", "media", "metadata"],
+  "homepage": "https://github.com/mybigday/react-native-media-meta#readme",
   "author": "Jhen <developer@jhen.me>",
   "license": "MIT"
 }
